@@ -1,0 +1,530 @@
+[
+    {
+    "userId": 1,
+    "id": 1,
+    "Nombre":
+      "Grupo regional de investigación participativa de los pequeños productores de la costa atlántica",
+    "Carrera":
+      "Ingeniería Agronómica",
+    "Numero integrantes":
+      "87",
+    "Numero proyectos":
+    "47",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Barranquilla"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "Nombre":
+      "Grupo de investigación en cultivos tropicales de clima cálido",
+    "Carrera":
+      "Ingeniería Agronómica",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Bogota"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "Nombre":
+      "Observatorio de precios y costos agrarios de la zona noroccidental del caribe colombiano",
+    "Carrera":
+      "Ingeniería Agronómica",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Cartagena"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "Nombre":
+      "Grupo de Aguas, Química Aplicada y Ambiental",
+    "Carrera":
+      "Quimica",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Amazonas"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "Nombre":
+      "Química de los productos naturales",
+    "Carrera":
+      "Quimica",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Cucuta"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "Nombre":
+      "Grupo Avanzado de Materiales y Sistemas Complejos - GAMASCO",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Guajira"
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "Nombre":
+      "Botánica",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Tolima"
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "Nombre":
+      "Genes",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Cordoba"
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "Nombre":
+      "Grupo de Fisicoquímica Orgánica",
+    "Carrera":
+      "Quimica",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Bucaramanga"
+  },
+  {
+    "userId": 2,
+    "id": 11,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 2,
+    "id": 12,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 2,
+    "id": 13,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 2,
+    "id": 14,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 2,
+    "id": 15,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 2,
+    "id": 16,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 2,
+    "id": 17,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 2,
+    "id": 18,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 2,
+    "id": 19,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 2,
+    "id": 20,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 3,
+    "id": 21,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 3,
+    "id": 22,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 3,
+    "id": 23,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 3,
+    "id": 24,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 3,
+    "id": 25,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 3,
+    "id": 26,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 3,
+    "id": 27,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 3,
+    "id": 28,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 3,
+    "id": 29,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 3,
+    "id": 30,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 4,
+    "id": 31,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 4,
+    "id": 32,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+  {
+    "userId": 4,
+    "id": 33,
+    "Nombre":
+      "Biodiversidad Unicórdoba",
+    "Carrera":
+      "Biologia",
+    "Numero integrantes":
+      "50",
+    "Numero proyectos":
+    "25",
+    "Proyectos aprobados":
+    "15",
+    "Eventos":
+    "Santander"
+  },
+]

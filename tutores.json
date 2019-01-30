@@ -1,0 +1,464 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "Nombre":
+      "Hermes Aramendiz Tatis",
+    "Indentificacion":
+      "1003466921",
+    "Estudios":
+      "Maestría en ciencias químicas avanzadas",
+    "Area de investigacion":
+    "Química",
+    "Integrantes a cargo":
+    "47"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "Nombre":
+      "Omar Castillo Núñez",
+    "Indentificacion":
+      "1067878892",
+    "Estudios":
+      "Doctor En lenguas extranjeras",
+    "Area de investigacion":
+    "Ingles",
+    "Integrantes a cargo":
+    "39"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "Nombre":
+      "José Luis Marrugo Negrete",
+    "Indentificacion":
+      "1068418822",
+    "Estudios":
+      "Doctorado  En Ciencia De Los Materiales E Ingeniería",
+    "Area de investigacion":
+    "Ingeniería mecánica",
+    "Integrantes a cargo":
+    "55"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "Nombre":
+      "Gilmar Gabriel Santafé Patiño",
+    "Indentificacion":
+      "1067958715",
+    "Estudios":
+      "Maestria en fermeria con especialidad en gestión sanitaria",
+    "Area de investigacion":
+    "Enfermería",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "Nombre":
+      "Juan Carlos Linares Arias",
+    "Indentificacion":
+      "1003044273",
+    "Estudios":
+      "Doctor En Filosofía En Sistemas Y Gestión De Ingeniería",
+    "Area de investigacion":
+    "Ingeniería de sistemas",
+    "Integrantes a cargo":
+    "98"
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "Nombre":
+      "César Ortega López",
+    "Indentificacion":
+      "1062424707",
+    "Estudios":
+      "Maestria en ciencias en producción de cultivos",
+    "Area de investigacion":
+    "Agronomía",
+    "Integrantes a cargo":
+    "74"
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 2,
+    "id": 11,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 2,
+    "id": 12,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 2,
+    "id": 13,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 2,
+    "id": 14,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 2,
+    "id": 15,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 2,
+    "id": 16,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 2,
+    "id": 17,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 2,
+    "id": 18,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 2,
+    "id": 19,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 2,
+    "id": 20,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 3,
+    "id": 21,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 3,
+    "id": 22,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 3,
+    "id": 23,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 3,
+    "id": 24,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 3,
+    "id": 25,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 3,
+    "id": 26,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 3,
+    "id": 27,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 3,
+    "id": 28,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 3,
+    "id": 29,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 3,
+    "id": 30,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 4,
+    "id": 31,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 4,
+    "id": 32,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+  {
+    "userId": 4,
+    "id": 33,
+    "Nombre":
+      "Alfredo Jarma Orozco",
+    "Indentificacion":
+      "1003402401",
+    "Estudios":
+      "Maestría en biología humana ",
+    "Area de investigacion":
+    "Biología",
+    "Integrantes a cargo":
+    "87"
+  },
+]
